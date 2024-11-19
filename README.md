@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![01](https://github.com/user-attachments/assets/83447986-0ce3-42a9-ac9e-e5a7160d3bd3)
+
 
 
  
@@ -62,8 +63,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![02](https://github.com/user-attachments/assets/4d9cdc4d-1d59-47da-80fa-4e30fdd61f2f)
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +75,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![03](https://github.com/user-attachments/assets/1200053c-0292-4f62-a117-b586cda95204)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +88,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+ ![04](https://github.com/user-attachments/assets/340a69e6-8c08-4f34-b844-f6a615be97e2)
+
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+![0005](https://github.com/user-attachments/assets/516959e6-9ecb-4cdb-a2e8-5c5dd19d1908)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+
+![05](https://github.com/user-attachments/assets/2dae6524-9160-439c-a942-0fc8fae7e2d1)
+
 
 
 
